@@ -1,0 +1,812 @@
+{
+  "tiles":
+  [
+    {
+      "segmentList":
+      [ {"type" :  0, "hasShield" :  false, "orientation": 0},
+        {"type" :  0, "hasShield" :  false, "orientation": 1},
+        {"type" :  2, "hasShield" :  false, "orientation": 2},
+        {"type" :  0, "hasShield" :  false, "orientation": 3},
+        {"type" :  1, "hasShield" :  false, "orientation": 4}
+      ],
+      "hasMonastery" : true,
+      "tag": "A"
+    },
+    {
+      "segmentList":
+      [ {"type" :  0, "hasShield" :  false, "orientation": 0},
+        {"type" :  0, "hasShield" :  false, "orientation": 1},
+        {"type" :  2, "hasShield" :  false, "orientation": 2},
+        {"type" :  0, "hasShield" :  false, "orientation": 3},
+        {"type" :  1, "hasShield" :  false, "orientation": 4}
+      ],
+      "hasMonastery" : true,
+      "tag": "A"
+    },
+
+    {
+      "segmentList":
+      [ {"type" :  0, "hasShield" :  false, "orientation": 0},
+        {"type" :  0, "hasShield" :  false, "orientation": 1},
+        {"type" :  0, "hasShield" :  false, "orientation": 2},
+        {"type" :  0, "hasShield" :  false, "orientation": 3},
+        {"type" :  1, "hasShield" :  false, "orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "B"
+    },
+    {
+      "segmentList":
+      [ {"type" :  0, "hasShield" :  false, "orientation": 0},
+        {"type" :  0, "hasShield" :  false, "orientation": 1},
+        {"type" :  0, "hasShield" :  false, "orientation": 2},
+        {"type" :  0, "hasShield" :  false, "orientation": 3},
+        {"type" :  1, "hasShield" :  false, "orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "B"
+    },
+    {
+      "segmentList":
+      [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+        {"type" :  0, "hasShield" :  false,"orientation": 1},
+        {"type" :  0, "hasShield" :  false,"orientation": 2},
+        {"type" :  0, "hasShield" :  false,"orientation": 3},
+        {"type" :  1, "hasShield" :  false,"orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "B"
+    },
+    {
+      "segmentList":
+      [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+        {"type" :  0, "hasShield" :  false,"orientation": 1},
+        {"type" :  0, "hasShield" :  false,"orientation": 2},
+        {"type" :  0, "hasShield" :  false,"orientation": 3},
+        {"type" :  1, "hasShield" :  false,"orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "B"
+    },
+
+
+    {
+      "segmentList":
+      [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+        {"type" :  3, "hasShield" :  false,"orientation": 1},
+        {"type" :  3, "hasShield" :  false,"orientation": 2},
+        {"type" :  3, "hasShield" :  false,"orientation": 3},
+        {"type" :  3, "hasShield" :  false,"orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "C"
+    },
+
+
+    {
+      "segmentList":
+      [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+        {"type" :  3, "hasShield" :  false,"orientation": 1},
+        {"type" :  2, "hasShield" :  false,"orientation": 2},
+        {"type" :  0, "hasShield" :  false,"orientation": 3},
+        {"type" :  2, "hasShield" :  false,"orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "D"
+    },
+    {
+      "segmentList":
+      [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+        {"type" :  3, "hasShield" :  false,"orientation": 1},
+        {"type" :  2, "hasShield" :  false,"orientation": 2},
+        {"type" :  0, "hasShield" :  false,"orientation": 3},
+        {"type" :  2, "hasShield" :  false,"orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "D"
+    },
+    {
+      "segmentList":
+      [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+        {"type" :  3, "hasShield" :  false,"orientation": 1},
+        {"type" :  2, "hasShield" :  false,"orientation": 2},
+        {"type" :  0, "hasShield" :  false,"orientation": 3},
+        {"type" :  2, "hasShield" :  false,"orientation": 4}
+      ],
+      "hasMonastery" : false,
+      "tag": "D"
+    },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "E"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "E"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "E"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "E"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "E"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  true,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "F"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  true,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "F"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  3, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "G"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "H"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "H"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "H"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  3, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "I"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  3, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "I"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "J"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "J"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "J"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "K"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "K"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "K"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "L"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "L"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "L"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "M"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "M"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "N"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "N"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "N"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "O"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "O"
+            },
+
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "P"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "P"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "P"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "Q"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "R"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "R"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  0, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "R"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "S"
+            },
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  true,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "S"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  3, "hasShield" :  false,"orientation": 0},
+                {"type" :  3, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  3, "hasShield" :  false,"orientation": 3},
+                {"type" :  3, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "T"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  0, "hasShield" :  false,"orientation": 3},
+                {"type" :  2, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "U"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  0, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "V"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "W"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "W"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "W"
+            },
+            {
+              "segmentList":
+              [ {"type" :  0, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "W"
+            },
+
+            {
+              "segmentList":
+              [ {"type" :  2, "hasShield" :  false,"orientation": 0},
+                {"type" :  2, "hasShield" :  false,"orientation": 1},
+                {"type" :  2, "hasShield" :  false,"orientation": 2},
+                {"type" :  2, "hasShield" :  false,"orientation": 3},
+                {"type" :  0, "hasShield" :  false,"orientation": 4}
+              ],
+              "hasMonastery" : false,
+              "tag": "X"
+            }
+          ]
+}
