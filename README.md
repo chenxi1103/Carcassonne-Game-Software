@@ -1,3 +1,9 @@
+## Summary
+* Design and Implemented the Core and GUI of the Carcassonne Game with 5500 lines of Java Code individually.
+* Realized and Demonstrated the Design by UML diagrams including Domain Model, Interactive Diagrams, System Sequence Diagrams and Object Model.
+* Applied OOD design pattern including Strategy Pattern, and Observer Pattern. Fully test the Core part by JUnit test.
+* Utilized Git, Gradle, and TravisCI to manage the project.
+
 ## Design
 In this Carcassonne game software, there are mainly eight classes that
 constructs the whole software system core. They are “GameSystem”, “GameBoard”, “Player”, “Tile”, “Position”, “Segment”, “Feature”. For the GUI part, the game applied Swing to realize the UI. A TileButton class that extends JButton would used to represent tiles on the GameBoard. A GameBoardPanel class that extends JPanel would used to represent the whole GameBoard and mainly accept the information from the backend. A GUI class that extends JFrame that holds the whole game frame and GameBoardPanel.
